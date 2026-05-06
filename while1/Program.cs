@@ -9,7 +9,7 @@ while (true)
     Console.Write("Ingrese un numero entero:");
     if (int.TryParse(Console.ReadLine(), out Numero))
     {
-        break ;
+        break;
     }
     else
     {

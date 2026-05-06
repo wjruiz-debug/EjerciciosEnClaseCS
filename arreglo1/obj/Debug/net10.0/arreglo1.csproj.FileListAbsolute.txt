@@ -1,0 +1,14 @@
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\bin\Debug\net10.0\arreglo1.exe
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\bin\Debug\net10.0\arreglo1.deps.json
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\bin\Debug\net10.0\arreglo1.runtimeconfig.json
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\bin\Debug\net10.0\arreglo1.dll
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\bin\Debug\net10.0\arreglo1.pdb
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfoInputs.cache
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfo.cs
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.csproj.CoreCompileInputs.cache
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.dll
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\refint\arreglo1.dll
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.pdb
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\arreglo1.genruntimeconfig.cache
+C:\Users\going\Desktop\grupo6ProgramacionCs\arreglo1\obj\Debug\net10.0\ref\arreglo1.dll
