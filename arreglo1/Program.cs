@@ -1,17 +1,19 @@
 ﻿//Leer 5 edades y mostrar la edad promedio.
 
-int [] edades =  new int[5];
+int[] edades = new int[5];
 
 int suma = 0;
 double promedio = 0;
 
+
 for (int i = 0; i < edades.Length; i++)
+
 {
-    Console.WriteLine($"Dime la edad: {i+1} .");
+    Console.WriteLine($"Dime la edad: {i + 1} .");
     edades[i] = int.Parse(Console.ReadLine()!);
 }
 
-foreach( int edad in edades)
+foreach (int edad in edades)
 
 {
     suma += edad;
