@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\bin\Debug\net10.0\EjercicioMatrizBidimensional.exe
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\bin\Debug\net10.0\EjercicioMatrizBidimensional.deps.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\bin\Debug\net10.0\EjercicioMatrizBidimensional.runtimeconfig.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\bin\Debug\net10.0\EjercicioMatrizBidimensional.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\bin\Debug\net10.0\EjercicioMatrizBidimensional.pdb
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.AssemblyInfo.cs
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.sourcelink.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\refint\EjercicioMatrizBidimensional.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.pdb
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\EjercicioMatrizBidimensional.genruntimeconfig.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\EjercicioMatrizBidimensional\obj\Debug\net10.0\ref\EjercicioMatrizBidimensional.dll
