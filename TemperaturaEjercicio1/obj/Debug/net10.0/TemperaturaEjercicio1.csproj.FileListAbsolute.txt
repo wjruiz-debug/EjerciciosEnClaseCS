@@ -1,0 +1,29 @@
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.exe
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.deps.json
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.runtimeconfig.json
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.pdb
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\refint\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.pdb
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.genruntimeconfig.cache
+C:\Users\Usuario\Documents\New folder (2)\TemperaturaEjercicio1\obj\Debug\net10.0\ref\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.exe
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.deps.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.runtimeconfig.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\bin\Debug\net10.0\TemperaturaEjercicio1.pdb
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.sourcelink.json
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\refint\TemperaturaEjercicio1.dll
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.pdb
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\TemperaturaEjercicio1.genruntimeconfig.cache
+C:\Users\Usuario\Documents\EjerciciosEnClaseCS\TemperaturaEjercicio1\obj\Debug\net10.0\ref\TemperaturaEjercicio1.dll
